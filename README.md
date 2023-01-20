@@ -17,3 +17,4 @@ Hello! I am an eager software engineer with a passion for building high-performa
 - SEARCH ENGINE: DJANGO ELASTIC SEARCH :mag_right:
 
 Feel free to check out my projects and contributions on GitHub! :octocat: :tada:
+[LinkedIn](https://www.linkedin.com/in/bennie-samuel/)
