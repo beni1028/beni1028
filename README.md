@@ -18,4 +18,7 @@ Hello! I am an eager software engineer with a passion for building high-performa
 
 Feel free to check out my projects and contributions on GitHub! :octocat: :tada:
 
-[LinkedIn](https://www.linkedin.com/in/bennie-samuel/)
+Links
+- [LinkedIn](https://www.linkedin.com/in/bennie-samuel/)
+- [My StartUp](https://www.metanoiaweblabs.com/)
+- [Avaite Jobs](https://www.aviate.jobs/) (My current employer)
